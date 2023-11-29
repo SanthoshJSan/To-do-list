@@ -1,0 +1,13 @@
+.side-bar{
+	width:200px;
+	min-width: 200px;
+}
+
+.full-height{
+	height: 100vh;
+}
+
+.tile{
+	border: 1px solid #d1d1d3;
+	background-color: white;
+}
